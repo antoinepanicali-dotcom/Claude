@@ -70,4 +70,4 @@ Tables supplementaires : Aucune par defaut
 - [x] Template icebreaker defini (icebreaker-template.md)
 - [x] Table Leads configuree dans Airtable (appCjM2LomnzUqiLs / tbljXdOkHvasqYHk4)
 - [x] Session LinkedIn connectee (profil sauvegarde sur C:\Users\Admin\.linkedin-mcp\profile)
-- [ ] Premier test de recherche LinkedIn reussi
+- [x] Premier test de recherche LinkedIn reussi (31 leads inseres)
